@@ -22,7 +22,7 @@ Existing ER techniques can be broadly divided into two categories:
 <LI>Task A. Data Preprocessing (Record --> Token Set)
  <li>Task B. Filtering Obviously Non-matching Pairs
   <li>Task C. Computing Jaccard Similarity for Survived Pairs
- <li>Step D. Evaluating an ER result </ul> <br>
+ <li>Step D. Evaluating an ER result </ul>
 
 ### Part 2: Similarity Based<br>
 <UL> 
