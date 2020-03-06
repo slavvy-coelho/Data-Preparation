@@ -30,3 +30,10 @@ Existing ER techniques can be broadly divided into two categories:
  <li>Step 2. Similar Pairs
   <li>Step 3. Active Learning
  <li>Step 4. Model Evaluation </ul>
+ 
+### Running instructions: <br>
+<ol><li>The repo contains two subfolders: Task 1 and Task2. 
+<li>Each folder has the python notebook in the src folder and the dataset in the data folder. 
+<li>Download the data and and python notebook in the same directory and execute. </ol>
+
+
