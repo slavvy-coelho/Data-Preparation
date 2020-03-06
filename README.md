@@ -15,4 +15,11 @@ Imagine that you want to help your company's customers to buy products at a chea
 
 Existing ER techniques can be broadly divided into two categories: 
 <ol><li>similarity-based (Part 1) 
-<li>learning-based (Part 2).</ol>
+<li>learning-based (Part 2).</ol><br>
+
+### Part 1: Similarity Based<br>
+<UL> 
+<LI>Task A. Data Preprocessing (Record --> Token Set)
+ <li>Task B. Filtering Obviously Non-matching Pairs
+  <li>Task C. Computing Jaccard Similarity for Survived Pairs
+ <li>Step 4. Model Evaluation </ul>
